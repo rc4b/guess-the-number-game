@@ -1,6 +1,6 @@
 // Código do jogo do número secreto (Projeto feito na aula da Alura)
 let listaDeNumerosSorteados = [];
-let numeroLimite = 50;
+let numeroLimite = 40;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
