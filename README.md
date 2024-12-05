@@ -1,5 +1,5 @@
 ![Imagem Gerada por IA](https://github.com/rc4b/guess-the-number-game/blob/main/img/ia.png)
-<h1 align="center">JOGO DO NÙMERO SECRETO</h1>
+<h1 align="center">JOGO DO NÚMERO SECRETO</h1>
 
 <h2>🔖 SOBRE</h2>
 <p>Projeto utilizado no curso de Git Hub da Alura. Nesse curso o projeto utilizado já estava pronto e foi utilizado para aprender comandos no Git e Git Hub.</p>
